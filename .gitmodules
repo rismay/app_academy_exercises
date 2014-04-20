@@ -22,3 +22,12 @@
 [submodule "w2/w2d5_poker"]
 	path = w2/w2d5_poker
 	url = https://github.com/rismay/w2d5_poker
+[submodule "w3/w3d2_questions"]
+	path = w3/w3d2_questions
+	url = https://github.com/rismay/w3d2_questions
+[submodule "w3/w3d3_url"]
+	path = w3/w3d3_url
+	url = https://github.com/rismay/w3d3_url.git
+[submodule "w3/w3d4_polling"]
+	path = w3/w3d4_polling
+	url = https://github.com/rismay/w3d4_polling.git
