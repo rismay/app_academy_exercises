@@ -10,3 +10,15 @@
 [submodule "w1/w1d5_tic_tac_toe_ai"]
 	path = w1/w1d5_tic_tac_toe_ai
 	url = https://github.com/rismay/w1d5_tic_tac_toe_ai.git
+[submodule "w2/w2d1_minesweeper"]
+	path = w2/w2d1_minesweeper
+	url = https://github.com/rismay/w2d1_minesweeper
+[submodule "w2/w2d2_d3_chess"]
+	path = w2/w2d2_d3_chess
+	url = https://github.com/rismay/w2d2_d3_chess
+[submodule "w2/w2d4_checkers"]
+	path = w2/w2d4_checkers
+	url = https://github.com/rismay/w2d4_checkers
+[submodule "w2/w2d5_poker"]
+	path = w2/w2d5_poker
+	url = https://github.com/rismay/w2d5_poker
