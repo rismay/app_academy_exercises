@@ -1,0 +1,12 @@
+[submodule "w1/w1d2"]
+	path = w1/w1d2
+	url = https://github.com/rismay/w1d2
+[submodule "w1/w1d3_monterroza_peguero"]
+	path = w1/w1d3_monterroza_peguero
+	url = https://github.com/rismay/w1d3_monterroza_peguero
+[submodule "w1/w1d4_monterroza_weon"]
+	path = w1/w1d4_monterroza_weon
+	url = https://github.com/rismay/w1d4_monterroza_weon
+[submodule "w1/w1d5_tic_tac_toe_ai"]
+	path = w1/w1d5_tic_tac_toe_ai
+	url = https://github.com/rismay/w1d5_tic_tac_toe_ai.git
